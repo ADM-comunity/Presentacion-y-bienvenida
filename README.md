@@ -6,5 +6,7 @@ sean bienvenidos a este espacio donde publicaremos muchos archivos y métodos de
 
 pronto estaremos publicando todo eso 
 
-# link de la comunidad
-https://chat.whatsapp.com/FsRMG4ARvOLI0jBLRVKqPX *comunidad 1*
+# avances 
+
+- bot ofc 
+- colab con Clover 
